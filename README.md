@@ -1,6 +1,11 @@
-# Projet n°2 : Nant’Events
+# Étudiant a la Wild Code School de Nantes
 
-# https://nant-events.netlify.app/
+## Formation Développeur Web & Mobile
+
+### Projet 2 : Nant’Events
+
+#### Liens du repo d'origine : https://github.com/WildCodeSchool/nts-js-202009-p2-culture
+#### deployement Netlify : https://nant-events.netlify.app/
 
 
 On fait quoi ce weekend ?
